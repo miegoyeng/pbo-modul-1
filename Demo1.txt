@@ -1,0 +1,24 @@
+>Class
+Motorcycle Specs Compare
+-------------------------
+
+>Attribute
+- merk : String
+- tipe : String
+- bahan bakar : String
+- silinder : double
+-------------------------
+
+>Konstruktor
++ Motor(merk : String, tipe : String)
++ setMerk(merk : String) : void
++ setTipe(tipe : String) : void
++ setBahanBakar(bb : String) : void
++ setCC(cc : double) : void
++ getMerk() : String
++ getTipe() : String
++ getBahanBakar() : String
++ getCC() : double
++ disMain() : void
++ disCompare() : void
+--------------------------
